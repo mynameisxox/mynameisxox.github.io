@@ -50,13 +50,13 @@ body{
 }
 
 .terminal{
+    height: 60vh;
+    width: 110vh;
+    bottom: 10vh;
     margin-top: auto;
     margin-bottom: auto;
     margin-left: auto;
     margin-right: auto;
-    height: 500px;
-    width: 900px;
-    bottom: 10vh;
     position: relative;
     background-color: var(--terminal);
     border-radius: 10px;
