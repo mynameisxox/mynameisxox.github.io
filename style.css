@@ -12,6 +12,7 @@
     --terminal: #23252F;
     --blue: #195FB2;
     --green: #0086A7;
+    --greener: #63A471;
 }
 
 *{
@@ -62,6 +63,7 @@ body{
     border-radius: 10px;
     padding: 75px 45px 35px;
     color: var(--light-black);
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 }
 
 .terminal::before{
@@ -95,7 +97,7 @@ p{
     display:inline;
 }
 
-#output, #input, #typing{
+#output, #input, #typing, p, u{
     background-color: inherit;
     font-family: 'Fira Code', monospace;
     font-size: large;
