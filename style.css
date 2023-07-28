@@ -22,13 +22,6 @@
     margin: 0;
     background-color: var(--light-black);
     box-sizing: border-box;
-    -webkit-touch-callout: none; /* iOS Safari */
-    -webkit-user-select: none; /* Safari */
-     -khtml-user-select: none; /* Konqueror HTML */
-       -moz-user-select: none; /* Old versions of Firefox */
-        -ms-user-select: none; /* Internet Explorer/Edge */
-            user-select: none;
-    cursor: default;
 }
 
 body{
@@ -53,7 +46,7 @@ body{
 .terminal{
     height: 60vh;
     width: 110vh;
-    bottom: 10vh;
+    bottom: 5vh;
     margin-top: auto;
     margin-bottom: auto;
     margin-left: auto;
@@ -64,6 +57,13 @@ body{
     padding: 75px 45px 35px;
     color: var(--light-black);
     box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    cursor: default;
 }
 
 .terminal::before{
@@ -95,6 +95,19 @@ p{
     background-color: var(--terminal);
     line-height: 35px;
     display:inline;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+a{
+    margin-left: 5vh;
+    margin-right: 5vh;
+    cursor: help;
 }
 
 #output, #input, #typing, p, u{
