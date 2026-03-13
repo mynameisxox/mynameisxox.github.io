@@ -1,0 +1,1 @@
+var e=`/assets/Pasted%20image%2020260313135240-CP4_Tssh.png`;export{e as default};

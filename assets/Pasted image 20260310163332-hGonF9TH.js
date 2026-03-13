@@ -1,0 +1,1 @@
+var e=`/assets/Pasted%20image%2020260310163332-DwLUZwJL.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/assets/Pasted%20Graphic-PQQGwryN.png`;export{e as default};
