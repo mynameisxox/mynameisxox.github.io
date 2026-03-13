@@ -1,1 +1,0 @@
-var e=`/assets/Pasted%20Graphic%201-D04cW3fx.png`;export{e as default};

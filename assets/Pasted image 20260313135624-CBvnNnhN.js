@@ -1,1 +1,0 @@
-var e=`/assets/Pasted%20image%2020260313135624-BasIxrAy.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/assets/R36_20250413_193552-1LNkoWRX.png`;export{e as default};
