@@ -32,7 +32,7 @@ The speakers are clearly close to the political world, the meeting appears to ta
 
 I first searched `north korea russian ambassador visits city`, then, recalling the alternative transcription, replaced *"city"* with *"hotel complex"*. This returned several interesting results, including [this one](https://www.themoscowtimes.com/2025/06/26/north-korea-targets-russian-tourists-with-new-beach-resort-a89577):
 
-![[Pasted image 20260313140428.png]]
+![[20260313140428.png]]
 
 This reveals that the Russian ambassador attended the inauguration of a hotel complex in the city of Wonsan during the summer of 2025.
 
